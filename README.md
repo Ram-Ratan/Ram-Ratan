@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi 👋, I'm Ram  
+
+Backend Developer | Problem Solver | Tech Enthusiast  
+
+I’m a backend developer passionate about building scalable and high-performance systems. Currently working at **TalentMonk**, I specialize in **Fastify, Prisma, PostgreSQL, and Redis**, focusing on clean architecture and efficient database design.  
+
+📫 Connect with me:  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ram-ratan-singh-658210215) 
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:ramratan72908@gmail.com)
 
 <!--
 **Ram-Ratan/Ram-Ratan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
